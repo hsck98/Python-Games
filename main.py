@@ -1,7 +1,6 @@
 import pygame
 import random
 from os.path import join
-import datetime
 
 SCREEN_WIDTH, SCREEN_HEIGHT = (1280, 720)
 
