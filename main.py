@@ -171,5 +171,3 @@ while running:
     pygame.display.update()
 
 pygame.quit()
-
-#testing Git
